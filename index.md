@@ -11,11 +11,6 @@ URL: https://github.com/GeorgeW351
 
 ## Interests
 
-- Python
-- Data Science
+- Programming (Python)
+- Data Science and Analytics
 - ML and AI
-
-## Experience
-
-Experienced energy market professional with background in European Gas trading and analytics.
-BSc (Hons) Mathematics (University of Bath). CFA Charterholder (CFA).
