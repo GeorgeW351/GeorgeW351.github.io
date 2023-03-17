@@ -6,18 +6,16 @@ layout: default
 
 ## Summary
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Projects
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Welcome to an introduction page for my Github profile.
+URL: https://github.com/GeorgeW351
 
 ## Interests
 
-- Programming (Python)
+- Python
 - Data Science
 - ML and AI
 
 ## Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Experienced energy market professional with background in European Gas trading and analytics.
+BSc (Hons) Mathematics (University of Bath). CFA Charterholder (CFA).
